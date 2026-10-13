@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "customerName": "Elena Vance",
+    "email": "elena.vance@retailstudio.com",
+    "preferredDate": "2026-10-12",
+    "serviceOfInterest": "Web Design",
+    "packageSelected": "Custom Architecture Tier",
+    "promoCode": null,
+    "message": "We need a complete modern editorial refresh for our boutique catalog with interactive product showcases and fast mobile navigation.",
+    "status": "New",
+    "submittedAt": "2026-10-04T08:02:14.000Z",
+    "notes": "Initial submission from website hero CTA."
+  },
+  {
+    "id": 2,
+    "customerName": "Marcus Sterling",
+    "email": "m.sterling@sterlingarch.io",
+    "preferredDate": "2026-10-18",
+    "serviceOfInterest": "Digital Branding",
+    "packageSelected": "Brand Identity Kit",
+    "promoCode": null,
+    "message": "Looking for cross-channel brand unity across our architectural firm presentation decks and new client portal.",
+    "status": "Contacted",
+    "submittedAt": "2026-10-03T14:25:30.000Z",
+    "notes": "Sent introductory capabilities deck via email on Oct 3."
+  },
+  {
+    "id": 3,
+    "customerName": "Samantha Reyes",
+    "email": "samantha@artisancraft.co",
+    "preferredDate": "2026-10-15",
+    "serviceOfInterest": "Digital Starter Package",
+    "packageSelected": "Digital Starter Package (20% OFF)",
+    "promoCode": "STARTER20",
+    "message": "We are preparing for our fall launch and want to claim the 20% OFF Starter Package to get our 3-page launch site and social templates live.",
+    "status": "Completed",
+    "submittedAt": "2026-10-02T11:40:00.000Z",
+    "notes": "Proposal signed with 20% discount applied. Project kickoff scheduled."
+  }
+]

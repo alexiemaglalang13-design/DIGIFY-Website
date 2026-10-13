@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Web Design",
+    "category": "Website",
+    "description": "Conversion-focused websites designed to make your business look credible and communicate clearly.",
+    "price": "Custom Quote",
+    "availability": "Available",
+    "deliverables": ["Responsive Architecture", "High-Fidelity Wireframes", "Custom Interactive Components", "SEO Foundation"],
+    "badge": "Core Service"
+  },
+  {
+    "id": 2,
+    "name": "Digital Branding",
+    "category": "Identity",
+    "description": "A cohesive visual identity for websites, social media, and marketing materials.",
+    "price": "Custom Quote",
+    "availability": "Available",
+    "deliverables": ["Color Harmony System", "Typographic Hierarchy", "Logo & Wordmark Kit", "Social Brand Assets"],
+    "badge": "Strategic"
+  },
+  {
+    "id": 3,
+    "name": "Social Media",
+    "category": "Marketing",
+    "description": "Consistent digital content and social media direction designed to keep your business visible.",
+    "price": "Custom Quote",
+    "availability": "Available",
+    "deliverables": ["Content Strategy Guide", "Multi-Platform Templates", "Visual Art Direction", "Posting Schedule Blueprint"],
+    "badge": "Growth"
+  },
+  {
+    "id": 4,
+    "name": "Digital Starter Package",
+    "category": "Bundle",
+    "description": "A practical combination of essential digital services for businesses building their online presence.",
+    "price": "20% OFF Promotional Rate",
+    "availability": "Available",
+    "deliverables": ["Launch Website (1-3 Pages)", "Foundational Brand Kit", "Social Launch Mockup Suite", "Email Template Blueprint"],
+    "badge": "Featured Campaign"
+  }
+]

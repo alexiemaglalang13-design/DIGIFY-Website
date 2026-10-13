@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Retail Studio",
+    "email": "demo.retail@example.com",
+    "service": "Web Design",
+    "status": "Inquiry",
+    "date": "2026-09-28",
+    "notes": "Exploring a modern editorial storefront refresh."
+  },
+  {
+    "id": 2,
+    "name": "Sample Architectural Firm",
+    "email": "inquiry.firm@example.com",
+    "service": "Digital Branding",
+    "status": "Reviewing Proposal",
+    "date": "2026-10-01",
+    "notes": "Looking for brand system cohesion across web and decks."
+  },
+  {
+    "id": 3,
+    "name": "Sample Artisan Roastery",
+    "email": "hello.roastery@example.com",
+    "service": "Digital Starter Package",
+    "status": "Promo Applied (20% OFF)",
+    "date": "2026-10-02",
+    "notes": "Requested Digital Starter Package for upcoming launch."
+  },
+  {
+    "id": 4,
+    "name": "Sample Consulting Group",
+    "email": "contact.consulting@example.com",
+    "service": "Social Media",
+    "status": "Discovery Scheduled",
+    "date": "2026-10-03",
+    "notes": "Seeking structured social templates and monthly content flow."
+  }
+]

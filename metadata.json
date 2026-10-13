@@ -1,0 +1,6 @@
+{
+  "name": "DIGIFY — Digital Services & Marketing Platform",
+  "description": "DIGIFY helps small and growing businesses build a credible, consistent, and effective digital presence with practical website, branding, and marketing solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
